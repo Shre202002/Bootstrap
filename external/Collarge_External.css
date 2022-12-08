@@ -1,0 +1,43 @@
+body{
+			background-color: firebrick;
+		}
+		.row
+		{
+			margin-left: 0px;
+			margin-right: 0px;
+			padding-right: 0px;
+			padding-left: 0px;
+			height: auto;
+		}
+		.I{
+			height: 500px; 
+			 background-color: pink;
+
+		}
+		.II{
+			height: 200px;
+			 background-color: gray;
+			  margin-top: 10px;
+		}
+		.III{
+			height: 200px;
+			 background-color: darkmagenta;
+			  margin-top: 10px;
+
+		}
+		.IV{
+			height: 200px;
+			 background-color: tan;
+			  margin-top: 10px;
+		}
+		.V{
+			height: 200px;
+			 background-color: yellow;
+			  margin-top: 10px;
+		}
+		.VI{
+			height: 200px;
+			 background-color: #959e35;
+			  padding-left: 2px;
+			   padding-right: 2px;
+		}

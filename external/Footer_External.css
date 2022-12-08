@@ -1,0 +1,80 @@
+
+
+.row-1{
+			height: 80px;
+			padding: 0px;
+			margin: 0px;
+			background-color: black;
+		}
+		.row-1{
+			height: 80px;
+			padding: 0px;
+			margin: 0px;
+			background-color: black;
+		}
+		.col-lg-3{
+			height: 80px;
+			text-align: center;
+			
+
+		}
+		.cssi{
+			font-size: 30px;
+			color: white;
+			margin-top: 20px;
+			cursor: pointer;
+
+		}
+		.hr1{
+			background-color:#e0e0e0;
+			height: 1px;
+			padding-top: 0px;
+			margin: 0px;
+			opacity: 20%;
+
+		}
+		row-2{
+			height: 350px;
+			padding: 0px;
+			margin: 0px;
+			background-color: black;
+		}
+		.top{
+			font-size: 20px;
+			 font-family: 'DynaPuff', cursive;
+			  color: white;	
+	    	}
+	    .internal{
+	    	text-align: left;
+	    	 font-size: 15px;
+	    	  font-family: 'Playfair Display', serif;
+	    	   color: #e0e0e0;
+
+	    }
+		h2{
+			text-align: left;
+			 font-family: 'Libre Baskerville', serif;
+              font-family: 'Playfair Display', serif;
+		}
+		input{
+			width: 100%;
+			height: 33px;
+			background: transparent;
+			border: 2px solid #b2b2b2;
+			text-align: center;
+			font-size: 15px;
+			font-family: 'DynaPuff', cursive;
+			color: white;
+		}
+		button{
+			background: white;
+			 width: 100%;
+			  height: 33px;
+			   text-align: center;
+			    font-size: 20px;
+
+
+		}
+		row-3{
+			height: 20px;
+		}

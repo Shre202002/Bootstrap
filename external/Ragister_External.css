@@ -1,0 +1,35 @@
+	
+		body{
+			background: url(28.jpg)  no-repeat center center fixed;
+			background-size: cover;
+		}
+		hr{
+			height: 2px;
+			color: darkred;
+			background-color: red;
+		}
+		input{
+			height:30px;
+			 width: 80%;
+			  text-align: center;
+			   font-size: 20px;
+			    border-radius: 0.5rem;
+			     background: transparent; 
+			        color: blue;
+		}
+		i{
+			width: 80%;
+			height: 80px;
+			text-align: center;
+			font-size: 30px;
+			outline: none;
+
+		}
+		button{
+			width: 40%;
+			height: 40px;
+			text-align: center;
+			cursor: pointer;
+			border-radius: 20px;
+			background: #d1cccc;
+			border: 2px solid #ffc1c1;
